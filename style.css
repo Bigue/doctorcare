@@ -607,7 +607,6 @@ footer .social-links {
 
     nav#navigation.scroll .menu li a::after {
         background-color: #FFF;
-        height: 2.5px;
     }
 
     nav#navigation .menu li a.active::after,
