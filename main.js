@@ -74,4 +74,6 @@ ScrollReveal({
  #about,
  #about header,
  #about .content,
- #about img`);
+ #about img,
+ #contact,
+ #contact .wrapper`);
