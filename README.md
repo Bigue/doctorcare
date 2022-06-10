@@ -36,8 +36,8 @@ This project was created by Rocketseat Boosters released on NLW Return event tha
 with a focus on training the intermediate skills of HTML, CSS and JavaScript with the purpose of helping beginners to make a business responsive landing page. In this project
 i learned to use a new Javascript library called <a href="https://scrollrevealjs.org/">Scroll Reveal</a>, doing a menu for the mobile version, great responsive and web development lessons.
 
-Watch the preview of this project at:
-https://bigue.github.io/doctorcare/ 
+Watch the preview of this project at this <a href="https://bigue.github.io/doctorcare/ ">link</a>
+
 
 
 <h2 id="layout">Layout 📐</h2>
