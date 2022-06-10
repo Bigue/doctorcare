@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <span>#Desktop</span>
+
   <img
     src="./assets/doctor-care-desktop.gif"
     width="700px"
@@ -21,7 +21,6 @@
 </p>
 
 <p align="center">
-  <span>#Mobile</span>
   <img
     src="./assets/doctor-care-mobile.gif"
     width="200px" height="400px"
