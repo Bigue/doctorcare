@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/nlw-return-logo.png" width="300px">
+  <img align="center" src="./assets/nlw-return-logo.png" width="300px">
 </h1>
 
 <h2 align="center">Doctorcare 📋</h2>
