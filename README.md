@@ -19,14 +19,15 @@
     style="display: inline; border-radius: 15px; border: "
   />
 </p>
-<br/>
+
 <p align="center">
-  #Mobile
+  
   <img
     src="./assets/doctor-care-mobile.gif"
     width="200px" height="400px"
     style="display: inline; border-radius: 15px; border: "
   />
+  #Mobile
 </p>
 
 <br/>
