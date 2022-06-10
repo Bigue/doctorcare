@@ -12,13 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="https://bigue.github.io/doctorcare/">
+  
   <img
     src="./assets/doctor-care-desktop.gif"
     width="700px"
     style="display: inline; border-radius: 15px; border: "
   />
-  </a>
 </p>
 
 <p align="center">
