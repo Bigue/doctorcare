@@ -22,7 +22,7 @@
 <p align="center">
   <img
     src="./assets/doctor-care-mobile.gif"
-    width="200px"
+    width="200px" height="400px"
     style="display: inline; border-radius: 15px; border: "
   />
 </p>
